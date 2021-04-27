@@ -22,8 +22,9 @@
 
   - [<img src="./weibo.png" width="30" height="30">](https://weibo.com/u/3194053975) 
   - [<img src="./youxiang.png" width="30" height="30">](mailto:wsbglbp@outlook.com) 
+  - Wechat: 704568245
 
-- If you like Ragdoll cats, you can contact me with wechat(704568245). You can find them in [there](./Ragdoll.md).
+- If you like Ragdoll cats, you can find them in [there](./Ragdoll.md).
 
   
 
