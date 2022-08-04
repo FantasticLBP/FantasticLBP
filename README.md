@@ -4,28 +4,19 @@
 
 
 
-- 👶 1995
-
-- 🏠 HangZhou
+- 杭城小刘 -  1995 - HangZhou
 
 - :books: Software engineering
 
-- 💻 App development | Web development | Application Security | Anti-Spider
+- 💻 iOS | Web-Frontend & Backend development | Application Security | Anti-Spider
 
 - :question: Ask me about anything. I will try to help you as much as I can.
 
-- :microphone: Quote: "Stay hungry, stay foolish."
+- :microphone: "Stay hungry, stay foolish."
 
-- 💖 Hobby: Movie、Ragdoll Cat、Table tennis、Bicycle
+- 💖  Movie、Ragdoll Cat、Table tennis、Bicycle
 
-- ✉️ How to contact me: 
-
-  - [<img src="./weibo.png" width="30" height="30">](https://weibo.com/u/3194053975) 
-  - [<img src="./youxiang.png" width="30" height="30">](mailto:wsbglbp@outlook.com) 
-  - Wechat: 704568245
-
-- If you like Ragdoll cats, you can find them in [there](./Ragdoll.md).
-
+- ✉️ contact me: [<img src="./weibo.png" width="30" height="30">](https://weibo.com/u/3194053975) [<img src="./youxiang.png" width="30" height="30">](mailto:wsbglbp@outlook.com) 
   
 
   
