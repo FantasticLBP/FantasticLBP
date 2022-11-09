@@ -16,7 +16,7 @@
 
 - 💖  Movie、Ragdoll Cat、Table tennis、Bicycle
 
-- ✉️ contact me: [<img src="./weibo.png" width="30" height="30">](https://weibo.com/u/3194053975) [<img src="./youxiang.png" width="30" height="30">](mailto:wsbglbp@outlook.com) 
+- ✉️ contact me: [<img src="./youxiang.png" width="30" height="30">](mailto:wsbglbp@outlook.com) 
   
 
   
