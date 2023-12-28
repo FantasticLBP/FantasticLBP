@@ -4,17 +4,15 @@
 
 
 
-- 杭城小刘 -  1995 - HangZhou
+- 杭城小刘 -  1995 - HangZhou - Entj
 
 - :books: Software engineering
 
 - 💻 iOS | Web-Frontend & Backend development | Application Security | Anti-Spider
 
-- :question: Ask me about anything. I will try to help you as much as I can.
-
 - :microphone: "Stay hungry, stay foolish."
 
-- 💖  Movie、Ragdoll Cat、Table tennis、Bicycle
+- 💖  Movie、Ragdoll Cat、Table tennis、Foodie
 
 - ✉️ contact me: [<img src="./youxiang.png" width="30" height="30">](mailto:wsbglbp@outlook.com)   [<img src="./weibo.png" width="30" height="30">]([mailto:wsbglbp@outlook.com](https://weibo.com/u/3194053975)) 
   
