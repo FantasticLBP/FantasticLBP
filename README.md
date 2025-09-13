@@ -17,18 +17,7 @@
 - ✉️ contact me: [<img src="./youxiang.png" width="30" height="30">](mailto:wsbglbp@outlook.com)   [<img src="./weibo.png" width="30" height="30">]([mailto:wsbglbp@outlook.com](https://weibo.com/u/3194053975)) 
   
 
-  
 
-  
-
-  
-
-  
-
-----
-### Profile Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FantasticLBP)](https://github.com/ryo-ma/github-profile-trophy)
 
 ----
 
