@@ -4,7 +4,7 @@
 
 
 
-- 杭城小刘 -  1995 - HangZhou - Entj
+- 杭城小刘 - HangZhou - Entj
 
 - :books: Software engineering
 
