@@ -23,7 +23,7 @@
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
-[![FantasticLBP's GitHub stats](https://github-readme-stats.vercel.app/api?username=FantasticLBP&layout=compact)](https://github.com/FantasticLBP)
+[![FantasticLBP's GitHub stats](https://stats.programcx.cn/api?username=FantasticLBP&show_icons=true&theme=dark&hide_border=true&cache_seconds=3600)](https://github.com/FantasticLBP)
 
 
 
@@ -32,7 +32,7 @@
 
 📊 **Most Used Languages**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FantasticLBP&layout=compact)](https://github.com/muwoo/github-readme-stats)
+[![Top Langs](https://stats.programcx.cn/api/top-langs/?username=FantasticLBP&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=3600)](https://github.com/muwoo/github-readme-stats)
 
  
 
