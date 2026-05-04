@@ -25,9 +25,6 @@
 
 [![FantasticLBP's GitHub stats](https://stats.programcx.cn/api?username=FantasticLBP&show_icons=true&theme=dark&hide_border=true&cache_seconds=3600)](https://github.com/FantasticLBP)
 
-
-
-
 -------
 
 📊 **Most Used Languages**
